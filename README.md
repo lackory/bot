@@ -7,6 +7,8 @@
 
 <p align="center">Группа ВК: https://vk.com/botsamogon</p>
 
+<p Помощь в развитии проекту: https://www.donationalerts.com/r/lackory</p>
+
 <p align="center">Команды бота: https://vk.com/topic-192989836_48041000</p>
 
 <p align="center">Бот-Самогонщик — это бот для бесед ВКонтакте, написанный на Python 3. Он обучается на вашей переписке , а затем генерирует демотиваторы и пишет сообщения сам!</p>
