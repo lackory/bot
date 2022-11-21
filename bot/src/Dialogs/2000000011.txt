@@ -1,0 +1,7 @@
+Поэтому бот еще на бета тесте
+only.learn = True
+arrange mode: True
+Distorion mode: True
+Команды
+Команды
+https://fast.vk.com/topic-192989836_48041000
