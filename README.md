@@ -1,4 +1,4 @@
-# bot
+# Бот-Самогонщик Oxygen V101.3 
 <h1 align="center">
   <img src="bot/assets/logo.jpg" alt="Бот-Самогонщик Oxygen V101.3"><br>
 </h1>
