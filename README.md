@@ -5,7 +5,7 @@
 
 <p align="center">Проект является форком Daemon RE: https://codeberg.org/Daemon-RE</p>
 
-<p align="center">Группа ВК: vk.com/botsamogon</p>
+<p align="center">Группа ВК: https://vk.com/botsamogon</p>
 
 <p align="center">Команды бота: https://vk.com/topic-192989836_48041000</p>
 
